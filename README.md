@@ -26,10 +26,15 @@ Fast, fun, and just a little bit competitive: perfect for settling disputes in t
 
 ## 📂 Project Structure
 ├── main.py         # Main game loop and event handling
+
 ├── paddle.py       # Paddle class with movement methods
+
 ├── ball.py         # Ball movement and collision logic
+
 ├── scoreboard.py   # Scoreboard display and updates
+
 ├── design.py       # (Optional) Midline design for the playfield
+
 └── gameplay.gif    # Demo GIF for README
 
 ---
