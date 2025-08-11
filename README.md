@@ -33,9 +33,7 @@ Fast, fun, and just a little bit competitive: perfect for settling disputes in t
 
 ├── scoreboard.py   # Scoreboard display and updates
 
-├── design.py       # (Optional) Midline design for the playfield
-
-└── gameplay.gif    # Demo GIF for README
+└── design.py       # (Optional) Midline design for the playfield
 
 ---
 
