@@ -4,7 +4,9 @@ A modern take on the classic Pong arcade game, built entirely with Python’s **
 Fast, fun, and just a little bit competitive: perfect for settling disputes in true retro style.  
 
 ## 📸 Output GIFs
+*One of the player wining*
 ![One of the players winning](https://github.com/user-attachments/assets/7067dbef-cf86-4e9b-9204-54bebccffb97)  
+*Draw*
 ![Draw](https://github.com/user-attachments/assets/d782affa-aac2-471c-b20d-22aecbc89d88)
 
 ---
