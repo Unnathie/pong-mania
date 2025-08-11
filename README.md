@@ -1,8 +1,7 @@
-```
 # 🏓 Pong Mania
 
 A modern take on the classic Pong arcade game, built entirely with Python’s **Turtle Graphics**.  
-Fast, fun, and just a little bit competitive — perfect for settling disputes in true retro style.  
+Fast, fun, and just a little bit competitive: perfect for settling disputes in true retro style.  
 
 ## 📸 Output GIFs
 ![One of the players winning](https://github.com/user-attachments/assets/7067dbef-cf86-4e9b-9204-54bebccffb97)  
@@ -60,4 +59,4 @@ If you somehow make millions from this, at least send me a pizza. 🍕
 ---
 
 Now grab a friend and relive the glory days of arcade rivalry. 🕹️
-```
+
